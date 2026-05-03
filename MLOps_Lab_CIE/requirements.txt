@@ -1,0 +1,21 @@
+pandas 
+numpy 
+scikit-learn 
+joblib 
+mlflow 
+fastapi 
+Uvicorn 
+requests 
+EOF 
+
+
+
+ MLOps_Lab_CIE/requirements.txt << 'EOF'
+pandas
+numpy
+scikit-learn
+joblib
+mlflow
+fastapi
+Uvicorn
+requests
