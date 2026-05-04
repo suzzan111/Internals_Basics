@@ -13,7 +13,7 @@ try:
 except ModuleNotFoundError as e:
     root = Path(__file__).resolve().parents[1]
     raise SystemExit(
-        "Missing Python packages (e.g. mlflow). From the MLOPs_Lab_CIE folder run:\n"
+        "Missing Python packages (e.g. mlflow). From the MLOps_Lab_CIE folder run:\n"
         f"  {sys.executable} -m pip install -r requirements.txt\n"
         "or use the project virtualenv:\n"
         f"  {root / '.venv' / 'bin' / 'python'} src/register_model.py\n"
