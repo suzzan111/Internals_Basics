@@ -1,0 +1,7 @@
+{
+  "model_name": "Ridge",
+  "run_id": "0e5ffeb9955847d29f7cbd4a4a5310ce",
+  "rmse": 2.397381295822364,
+  "random_state": 42,
+  "test_size": 0.2
+}

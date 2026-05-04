@@ -1,0 +1,12 @@
+{
+  "image_name": "drillsense-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.12-slim",
+  "test_input": {
+    "rock_hardness": 4,
+    "drill_bit_age_hours": 81,
+    "mud_pressure_psi": 1457.3,
+    "depth_m": 1891.2
+  },
+  "prediction": 9.980797409051991
+}
